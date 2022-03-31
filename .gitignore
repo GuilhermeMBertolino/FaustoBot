@@ -1,0 +1,9 @@
+#CONFIG (token e o prefixo)
+config.JSON
+
+#PACKAGE
+package-lock.JSON
+\node_modules
+
+#BANCO DE DADOS
+banco.JSON
